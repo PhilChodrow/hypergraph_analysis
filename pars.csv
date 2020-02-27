@@ -1,0 +1,53 @@
+data,nrounds,nsteps,sample_after,nsamples,save_state,read_state,start_time,out_name,graph,label
+email-Eu-full,600,10000,100,10000,True,True,1105000000,email-Eu-short,hypergraph,vertex
+email-Eu-full,600,10000,100,10000,True,True,1105000000,email-Eu-short,hypergraph,stub
+email-Eu-full,700,50000,200,10000,True,True,1105000000,email-Eu-short,projected,vertex
+email-Eu-full,700,10000,200,10000,True,True,1105000000,email-Eu-short,projected,stub
+email-Eu-full,500,10000,100,10000,True,True,1105000000,email-Eu-short,hypergraph,empirical
+email-Eu-full,500,10000,0,10000,True,True,1105000000,email-Eu-short,projected,empirical
+coauth-MAG-Geology, 700,10000,200,10000,True,True,2017,coauth-MAG-Geology-short,hypergraph,empirical
+coauth-MAG-Geology, 700,10000,200,10000,True,True,2017,coauth-MAG-Geology-short,hypergraph,vertex
+coauth-MAG-Geology, 700,10000,200,10000,True,True,2017,coauth-MAG-Geology-short,hypergraph,stub
+coauth-MAG-Geology, 700,10000,200,10000,True,True,2017,coauth-MAG-Geology-short,projected,empirical
+coauth-MAG-Geology, 700,50000,200,10000,True,True,2017,coauth-MAG-Geology-short,projected,vertex
+coauth-MAG-Geology, 700,10000,200,10000,True,True,2017,coauth-MAG-Geology-short,projected,stub
+NDC-classes-full,700,10000,200,10000,True,True,63554192000000,NDC-classes-short,hypergraph,vertex
+NDC-classes-full,500,10000,200,10000,True,True,63554192000000,NDC-classes-short,hypergraph,empirical
+NDC-classes-full,700,50000,200,10000,True,True,63554192000000,NDC-classes-short,projected,vertex
+NDC-classes-full,600,10000,100,10000,True,True,63554192000000,NDC-classes-short,hypergraph,stub
+NDC-classes-full,500,10000,200,10000,True,True,63554192000000,NDC-classes-short,projected,empirical
+NDC-classes-full,600,10000,100,10000,True,True,63554192000000,NDC-classes-short,projected,stub
+congress-bills,500,10000,200,10000,True,True,731500,congress-bills-short,hypergraph,empirical
+congress-bills,500,10000,200,10000,True,True,731500,congress-bills-short,projected,empirical
+congress-bills,700,10000,200,10000,True,True,731500,congress-bills-short,hypergraph,vertex
+congress-bills,600,10000,100,10000,True,True,731500,congress-bills-short,hypergraph,stub
+congress-bills,1000,50000,500,10000,True,True,731500,congress-bills-short,projected,vertex
+congress-bills,600,10000,100,10000,True,True,731500,congress-bills-short,projected,stub
+email-Enron-full,700,10000,200,10000,True,True,0,email-Enron-full,hypergraph,vertex
+email-Enron-full,500,10000,200,10000,True,True,0,email-Enron-full,hypergraph,empirical
+email-Enron-full,700,50000,200,10000,True,True,0,email-Enron-full,projected,vertex
+email-Enron-full,600,10000,100,10000,True,True,0,email-Enron-full,hypergraph,stub
+email-Enron-full,500,10000,200,10000,True,True,0,email-Enron-full,projected,empirical
+email-Enron-full,700,50000,200,10000,True,True,0,email-Enron-full,projected,vertex
+email-Enron-full,600,10000,100,10000,True,True,0,email-Enron-full,projected,stub
+congress-bills,100,10000,0,10000,True,True,731500,congress-bills-short,hypergraph,stub
+congress-bills,100,50000,0,10000,True,True,731500,congress-bills-short,projected,vertex
+congress-bills,100,10000,0,10000,True,True,731500,congress-bills-short,projected,stub
+threads-math-sx,700,10000,200,10000,True,True,219000000000,threads-math-sx-short,hypergraph,vertex
+threads-math-sx,500,10000,200,10000,True,True,219000000000,threads-math-sx-short,hypergraph,empirical
+threads-math-sx,700,50000,200,10000,True,True,219000000000,threads-math-sx-short,projected,vertex
+threads-math-sx,600,10000,100,10000,True,True,219000000000,threads-math-sx-short,hypergraph,stub
+threads-math-sx,500,10000,200,10000,True,True,219000000000,threads-math-sx-short,projected,empirical
+threads-math-sx,600,10000,100,10000,True,True,219000000000,threads-math-sx-short,projected,stub
+tags-ask-ubuntu,700,10000,200,10000,True,True,260000000000,tags-ask-ubuntu-short,hypergraph,vertex
+tags-ask-ubuntu,500,10000,200,10000,True,True,260000000000,tags-ask-ubuntu-short,hypergraph,empirical
+tags-ask-ubuntu,700,50000,200,10000,True,True,260000000000,tags-ask-ubuntu-short,projected,vertex
+tags-ask-ubuntu,600,10000,100,10000,True,True,260000000000,tags-ask-ubuntu-short,hypergraph,stub
+tags-ask-ubuntu,500,10000,200,10000,True,True,260000000000,tags-ask-ubuntu-short,projected,empirical
+tags-ask-ubuntu,600,10000,100,10000,True,True,260000000000,tags-ask-ubuntu-short,projected,stub
+coauth-DBLP-full,500,10000,0,10000,True,True,2017,coauth-DBLP-short,hypergraph,vertex
+coauth-DBLP-full,500,50000,0,10000,True,True,2017,coauth-DBLP-short,hypergraph,stub
+coauth-DBLP-full,500,10000,0,10000,True,True,2017,coauth-DBLP-short,hypergraph,empirical
+coauth-DBLP-full,500,10000,0,10000,True,True,2017,coauth-DBLP-short,projected,vertex
+coauth-DBLP-full,500,50000,0,10000,True,True,2017,coauth-DBLP-short,projected,stub
+coauth-DBLP-full,500,10000,0,10000,True,True,2017,coauth-DBLP-short,projected,empirical
