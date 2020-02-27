@@ -55,6 +55,6 @@ def line_graph(C, weighted = False, as_hyper = False, multi = True):
         return(G)
     else:
         G = [f for F in C.C for f in combinations(F, 2)]
-        return(hypergraph(G, n_nodes = len(C.nodes)))
+        return(hypergraph.hypergraph(G, n_nodes = len(C.nodes)))
     
     
