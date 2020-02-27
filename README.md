@@ -31,3 +31,8 @@ python py/control_analysis.py --pars pars.csv
 ```
 
 In order to minimize compute time, the repo provides a `pars_enron.csv` file which will perform a brief analysis on the `email-enron` data set only. The complete `pars.csv` file enumerates the parameters used in the paper.   
+
+## Visualize Results
+
+The file `figs.R` contains an extremely elementary `R` script for visualizing the output of the analysis with figures reminiscent of those in the manuscript. This script requires the `tidyverse` and `knitr` packages for `R`. 
+
