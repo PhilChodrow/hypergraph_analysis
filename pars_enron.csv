@@ -1,7 +1,0 @@
-data,nrounds,nsteps,sample_after,nsamples,save_state,read_state,start_time,out_name,graph,label
-email-Enron,1000,5000,20,10000,True,True,0,email-Enron,hypergraph,vertex
-email-Enron,1000,5000,20,10000,True,True,0,email-Enron,hypergraph,empirical
-email-Enron,1000,5000,20,10000,True,True,0,email-Enron,projected,vertex
-email-Enron,1000,5000,20,10000,True,True,0,email-Enron,hypergraph,stub
-email-Enron,1000,5000,20,10000,True,True,0,email-Enron,projected,empirical
-email-Enron,1000,5000,20,10000,True,True,0,email-Enron,projected,stub
